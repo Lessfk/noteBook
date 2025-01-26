@@ -20,7 +20,7 @@ export default defineConfig({
   title: "Lessfk's noteBook", //标题
   description: "noteBook",  //描述
   outDir: 'docs',  //打包输出的目录 
-  base: "/noteBook/", //打包
+  base: "/noteBook/", //打包资源路径
   themeConfig: {
     //头部导航
     nav: [
